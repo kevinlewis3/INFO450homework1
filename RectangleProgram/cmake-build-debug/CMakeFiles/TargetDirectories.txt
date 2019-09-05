@@ -1,0 +1,3 @@
+/Users/klewis/CLionProjects/AreaRectangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/klewis/CLionProjects/AreaRectangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/klewis/CLionProjects/AreaRectangle/cmake-build-debug/CMakeFiles/AreaRectangle.dir
